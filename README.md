@@ -1,2 +1,2 @@
 # dating-gpt
-Dating app using ChatGPT
+Presentation and screenshots of dating app created for hackathon project.
